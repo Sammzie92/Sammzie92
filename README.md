@@ -12,9 +12,11 @@ Experienced customer service professional with a strong track record in Website 
 *   🚀  I'm currently working on [Travel Advisor - Clone App](http://exp://exp.host/@sammzie_90/TravelBug?release-channel=default)
 *   🧠  I'm learning Advanced React Native, Angular.js
 *   🤝  I'm open to collaborating on Mobile Applications, Web Design, Python projects
-*   ⚡  Who doesn't love Marvel?<a href="https://www.twitter.com/missemadranya" target="_blank" rel="noreferrer"><img
+*   ⚡  Who doesn't love Marvel?
+*   <a href="https://www.twitter.com/missemadranya" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/missemadranya?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                /></a>
+  ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -31,19 +33,26 @@ Experienced customer service professional with a strong track record in Website 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.dribbble.com/sammzie92" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sammzie92" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sammzie-njoro-992b26a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/missemadranya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Sammzie92"><img src="https://github-readme-stats.vercel.app/api?username=Sammzie92&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Sammzie92's GitHub stats" /></a>
+
+<a href="http://www.github.com/Sammzie92"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammzie92&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Sammzie92" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammzie92&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Sammzie92/TravelBug" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sammzie92&repo=TravelBug&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dribbble.com/sammzie92" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Sammzie92" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/sammzie-njoro-992b26a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/missemadranya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Sammzie92"><img src="https://github-readme-stats.vercel.app/api?username=Sammzie92&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sammzie92's GitHub stats" /></a><a
-                      href="http://www.github.com/Sammzie92"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Sammzie92&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Sammzie92" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammzie92&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Sammzie92/TravelBug" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sammzie92&repo=TravelBug&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Support Me
+
+<a href="https://www.buymeacoffee.com/sammzie92"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
