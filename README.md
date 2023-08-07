@@ -9,7 +9,7 @@ Experienced customer service professional with a strong track record in Website 
 *   🌍  I'm based in Nairobi, Kenya
 *   🖥️  See my portfolio at [sammzie-prod](http://sammzie-prod.com)
 *   ✉️  You can contact me at [missemadranya@gmail.com](mailto:missemadranya@gmail.com)
-*   🚀  I'm currently working on [Travel Advisor - Clone App](http://exp://exp.host/@sammzie_90/TravelBug?release-channel=default)
+*   🚀  I'm currently working on [Beauty Products Delivery App](https://github.com/Sammzie92/Beauty-By-Dee)
 *   🧠  I'm learning Advanced React Native, Angular.js
 *   🤝  I'm open to collaborating on Mobile Applications, Web Design, Python projects
 *   ⚡  Who doesn't love Marvel?
